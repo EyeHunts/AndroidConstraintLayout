@@ -1,3 +1,3 @@
 # AndroidConstraintLayout
 Android ConstraintLayout
-https://tutorial.eyehunt.in/android/android-constraintlayout-example-kotlin/
+https://tutorial.eyehunts.com/android/android-constraintlayout-example-kotlin/
